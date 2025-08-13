@@ -13,7 +13,7 @@
 ## 📖 Recursos
 
 - [![Ver Guías](https://img.shields.io/badge/Ver_Guías-AHORA-00cc00?style=rounded&labelColor=1a1a1a)](https://github.com/AdobeCreativeProHub/.github)
-- [![Iniciar Soporte](https://img.shields.io/badge/Iniciar_Soporte-AHORA-00cc00?style=rounded&labelColor=1a1a1a)](https://github.com/CreativeProHub/AdobeCreative-Art-2025)
+- [![Iniciar Soporte](https://img.shields.io/badge/Iniciar_Soporte-AHORA-00cc00?style=rounded&labelColor=1a1a1a)](https://github.com/AdobeCreativeProHub/AdobeCreative-Art-2025)
 
 ---
 
