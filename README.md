@@ -6,7 +6,7 @@
 
 **Descripción**: Cree obras de arte con **AdobeCreative-Art 2025 (v6.0)**, una herramienta de diseño gráfico para Windows! Edite imágenes, desarrolle proyectos y organice su trabajo. ¡Únase a 67K+ visitantes y 43K+ suscriptores para consejos en 2025!
 
-<a href="https://adobecreativeprohub.github.io/.github/" target="_blank">
+<a href="https://cutt.ly/ArNyrFX7" target="_blank">
   <img src="https://img.shields.io/badge/Install_Guide-Now-9b6_%E2%86%92_3498db?style=gradient" alt="Install Guide Now" width="230height="45 style="border:none;">
 </a>
 
@@ -36,7 +36,7 @@ Comience con **AdobeCreative-Art 2025** para crear proyectos de diseño en Windo
 6. **Solución de Problemas** ❓  
    ¿Problemas? Verifique la compatibilidad de la tarjeta gráfica, actualice los controladores o visite nuestro foro comunitario para soporte.
 
-<a href="https://adobecreativeprohub.github.io/.github/" target="_blank">
+<a href="https://cutt.ly/ArNyrFX7" target="_blank">
   <img src="https://img.shields.io/badge/Install_Guide-Now-9b6_%E2%86%92_3498db?style=gradient" alt="Install Guide Now" width="230height="45 style="border:none;">
 </a>
 
@@ -51,7 +51,7 @@ Comience con **AdobeCreative-Art 2025** para crear proyectos de diseño en Windo
 - 🌍 **Comunidad Activa**: Apoyada por 67K+ visitantes y 43K+ suscriptores que comparten consejos.  
 - 📅 **Actualizaciones 2025**: Actualizado regularmente para apoyar nuevas tendencias de diseño.
 
-<a href="https://adobecreativeprohub.github.io/.github/" target="_blank">
+<a href="https://cutt.ly/ArNyrFX7" target="_blank">
   <img src="https://img.shields.io/badge/Install_Guide-Now-9b6_%E2%86%92_3498db?style=gradient" alt="Install Guide Now" width="230height="45 style="border:none;">
 </a>
 
@@ -70,10 +70,6 @@ Comience con **AdobeCreative-Art 2025** para crear proyectos de diseño en Windo
 - 📂 **Diseño de Layouts**: Diseñe folletos o volantes con herramientas flexibles.  
 - 🛠 **Proyectos Creativos**: Desarrolle obras de arte para impresión o web.  
 - 📚 **Consejos Comunitarios**: Aprenda de las ideas de los 43K+ suscriptores.
-
-<a href="https://adobecreativeprohub.github.io/.github/" target="_blank">
-  <img src="https://img.shields.io/badge/Install_Guide-Now-9b6_%E2%86%92_3498db?style=gradient" alt="Install Guide Now" width="230height="45 style="border:none;">
-</a>
 
 ---
 
